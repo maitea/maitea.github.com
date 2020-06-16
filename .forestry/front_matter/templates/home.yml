@@ -23,4 +23,5 @@ fields:
       format: markdown
   label: Text
 pages:
+- content/Ni idea.md
 - content/Probando.md
