@@ -1,0 +1,13 @@
+---
+label: pruebaka
+hide_body: false
+fields:
+- type: file
+  name: image
+  label: image
+- type: text
+  name: text
+  label: text
+- type: text
+  name: Hola
+  label: Hola
