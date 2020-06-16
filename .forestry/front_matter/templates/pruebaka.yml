@@ -2,12 +2,16 @@
 label: pruebaka
 hide_body: false
 fields:
+- type: text
+  name: Hola
+  label: Hola
 - type: file
   name: image
   label: image
 - type: text
   name: text
   label: text
-- type: text
-  name: Hola
-  label: Hola
+- name: galery
+  type: image_gallery
+  config: {}
+  label: galery
