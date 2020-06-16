@@ -13,3 +13,12 @@ fields:
     maxSize: 64
   label: image
   default: "/uploads/lucas-benjamin-wqlagv4_oys-unsplash.jpg"
+- name: text
+  type: textarea
+  default: Hola que ase
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Text
